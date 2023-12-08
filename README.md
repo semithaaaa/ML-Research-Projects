@@ -7,7 +7,8 @@ Machine Learning Projects Hub
 This repository serves as a centralized hub for showcasing my explorations and implementations of machine learning techniques across various industries. From healthcare and finance to technology and beyond, dive into a collection of projects that harness the power of artificial intelligence to solve real-world challenges.
 Key Features
 
-🔬 Sector-specific Projects: Explore a curated selection of machine learning projects tailored for different sectors, providing practical insights and solutions.
+🔬 Sector-specific Projects: 
+Explore a curated selection of machine learning projects tailored for different sectors, providing practical insights and solutions.
 
 📈 Open Source Collaboration: Contribute, learn, and collaborate! This repository is open for collaboration, welcoming contributions from the community to foster knowledge sharing and innovation.
 
